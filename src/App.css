@@ -20,7 +20,7 @@
   flex-direction: column;
   justify-content: space-between;
   align-items: flex-end; 
-  background: linear-gradient(to right, #333, #444); 
+  background: linear-gradient(to right, #4c4c4c, #444); 
 }
 
 .input {
